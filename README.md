@@ -108,6 +108,5 @@ This Power BI project showcases a robust analysis of Tata's business data, answe
 
 Feel free to explore and provide feedback!
 
-Author
-
-Azam Khan
+### Author
+#### Azam Khan
